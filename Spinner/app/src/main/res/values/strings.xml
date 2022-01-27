@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spinner Example</string>
+
+    <string-array name="prog_language">
+        <item>-- Please Select --</item>
+        <item>Python</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Dart</item>
+        <item>PHP</item>
+        <item>Javascript</item>
+    </string-array>
+
+</resources>
