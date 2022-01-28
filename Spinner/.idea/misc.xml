@@ -4,6 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/work/AS_20/Spinner/app/src/main/res/layout/activity_main.xml" value="0.2907608695652174" />
+        <entry key="..\:/work/AS_20/abahe/android-spinner-dropdown-sample/Spinner/app/src/main/res/drawable/bg_dialog_rounded_white.xml" value="0.1361111111111111" />
+        <entry key="..\:/work/AS_20/abahe/android-spinner-dropdown-sample/Spinner/app/src/main/res/drawable/bg_rounded_blue_fill_outline_25.xml" value="0.1361111111111111" />
+        <entry key="..\:/work/AS_20/abahe/android-spinner-dropdown-sample/Spinner/app/src/main/res/drawable/ic_arrow_drop_down.xml" value="0.1361111111111111" />
+        <entry key="..\:/work/AS_20/abahe/android-spinner-dropdown-sample/Spinner/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/work/AS_20/abahe/android-spinner-dropdown-sample/Spinner/app/src/main/res/layout/item_ref_spinner.xml" value="0.16510416666666666" />
+        <entry key="..\:/work/AS_20/abahe/android-spinner-dropdown-sample/Spinner/app/src/main/res/layout/view_ref.xml" value="0.16510416666666666" />
       </map>
     </option>
   </component>
